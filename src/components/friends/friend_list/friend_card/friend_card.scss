@@ -1,0 +1,11 @@
+.friendCard {
+    box-sizing: border-box;
+    margin: .5em;
+    img {
+        width: 10em;
+        height: 10em;
+    }
+    &:hover {
+        cursor: pointer;
+    }
+}
